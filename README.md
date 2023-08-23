@@ -7,20 +7,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Links](#links)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution](https://github.com/trystan-loke/frontend-mentor-qr-code-component)
+- [Live Site](https://trystan-loke.github.io/frontend-mentor-qr-code-component/)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@trystan-loke](https://www.frontendmentor.io/profile/trystan-loke)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
